@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-pagination-bullet, swiper-navigation  {
+    background-color: white;
+  }
+
+  
+  .swiper-slide {
+  
+    
+    background: transparent;
+   
+    /* Center slide text vertically */
+ 
+  }
