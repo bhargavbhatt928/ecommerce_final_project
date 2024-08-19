@@ -33,7 +33,7 @@ const Footer = () => {
             </tr>
          </tbody>
         </table>
-         <hr className="w-4/5 border-2  mt-4"/>
+         <hr className="w-4/5 border-2 border-sky-900  mt-4"/>
          <span className="text-white mb-2 mt-2">Copyright @Ecommerce 2023-2024</span>
         </div>
  

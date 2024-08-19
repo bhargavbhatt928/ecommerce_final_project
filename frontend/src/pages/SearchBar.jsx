@@ -3,7 +3,7 @@ import React from 'react'
 function Searchbar() {
   return (
     <div>
-    <div className="flex flex-row backdrop-blur-md bg-black bg-opacity-60">
+    <div className="flex flex-row backdrop-blur-md bg-black text-white font-bold bg-opacity-60">
     <div className="basis-1/4 mb-3 mt-2">
       <img
         src="src/assets/logoes/logo1.png"
